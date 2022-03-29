@@ -25,3 +25,8 @@ Install swift_programming with git
     * Booleans
     * Arrays
     * Dictionaries
+
+
+
+## Resources
+1. [codepath.com](https://guides.codepath.com/ios/Swift-Basics#optionals)
