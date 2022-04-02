@@ -25,8 +25,12 @@ Install swift_programming with git
     * Booleans
     * Arrays
     * Dictionaries
-
+2. Any and AnyObject
+3. Optionals
+4. Functions
+5. Control Flows
+6. Loops
 
 
 ## Resources
-1. [codepath.com](https://guides.codepath.com/ios/Swift-Basics#optionals)
+1. [codepath.com](https://guides.codepath.com/ios/Swift-Basics#classes)
