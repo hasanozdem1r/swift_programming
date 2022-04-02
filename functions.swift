@@ -17,6 +17,5 @@ say_hello()
 func describe_person(name name:String, surname surname:String)->String{
     return "Hello I am \(name) \(surname)!"
 }
-
 let text:String=describe_person(to: "Hasan",and: "Özdemir")
 print(text)
